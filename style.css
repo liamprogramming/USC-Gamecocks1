@@ -1,0 +1,105 @@
+li{
+    font-size:20px;}
+  table{
+    border-style:double;
+  }
+  .usc-table{
+    background-color:#73000A;
+    color:white;
+  }
+  #missou{
+    background-color:#F1B82D;
+  }
+  #clemson{
+    background-color:#F56600;
+    color:#522D80;
+  }
+  #wofford{
+    background-color:#886E4C;
+    color:white;
+  }
+  body{
+    background-color:#73000A;
+    color:white;
+    
+  }
+  img{
+   height:400px;
+    width:700px;
+  }
+  a{
+    color:yellow;
+  }
+  div{
+    display:flex;
+  }
+  #aggies{
+    color:black;
+    background-color:white;
+  }
+  #vandy{
+    background-color:#FEEEB6;
+    color:black;
+  }
+  .imgs{
+    border: 10px solid black;
+    display:block;
+    margin:auto;
+  }
+  #lucas{
+  border:5px solid black;
+  }
+  #bob{
+    font-size:55px;
+    text-align:center;
+  
+     
+  }
+  .players{
+    length:1200px;
+    width:600px;
+  }
+  .title{
+    font-size:35px;
+    text-align:center;
+  }
+  
+  
+  .cocky{
+    width:400px;
+    height:300px;
+    border:5px solid black;
+    
+   
+  }
+  .stupid{
+   font-size:20px;
+    font:strong;
+  }
+  .sub{
+    font-size:30px;
+    font:strong;
+    text-align:center;
+  }
+  .text{
+   font-size:20px; 
+  }
+  .table{
+    font-size:15px;
+  }
+  .rival{
+    width:300px;
+    height:250px;
+  }
+  #freak{
+    width:600px;
+    heigth:400px;
+  }
+  .ferriar{
+    border:5px dashed black;
+    font-family:Times New Roman;
+  }
+  #source{
+    font-size:20px; 
+    text-align:center;
+  }
